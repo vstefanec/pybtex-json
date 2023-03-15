@@ -1,7 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='Pybtex JSON plugin',
+    name='pybtex-json',
+    description='Pybtex JSON plugin',
     version='0.0.1',
     author='Vanja Štefanec',
     py_modules=['pybtex_json'],
